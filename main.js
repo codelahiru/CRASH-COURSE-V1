@@ -110,7 +110,7 @@ console.log(toDosJson);
 
 for(let i=0; i<10; i++){
 
-    console.log(`value of i is 00:11 ${i}`);
+    console.log(`value of i is 12:51 r ${i}`);
 };
 
 
